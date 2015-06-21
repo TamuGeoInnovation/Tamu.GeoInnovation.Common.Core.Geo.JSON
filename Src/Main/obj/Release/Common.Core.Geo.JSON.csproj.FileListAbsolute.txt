@@ -1,6 +1,0 @@
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Geo.JSON.dll.config
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Geo.JSON.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.JSON\Src\Main\obj\Release\Common.Core.Geo.JSON.csprojResolveAssemblyReference.cache
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.JSON\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Geo.JSON.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.JSON\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Geo.JSON.dll.config
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.JSON\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Geo.JSON.dll
