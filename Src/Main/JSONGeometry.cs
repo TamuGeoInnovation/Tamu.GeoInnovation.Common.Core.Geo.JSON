@@ -1,5 +1,5 @@
-﻿using System;
-using Microsoft.SqlServer.Types;
+﻿using Microsoft.SqlServer.Types;
+using System;
 using USC.GISResearchLab.Common.Geometries;
 
 namespace USC.GISResearchLab.Common.Core.Utils.JSON
